@@ -1,6 +1,6 @@
 # オープン職務経歴書
 公開用職務経歴書、転職活動というよりは自分が今まで何をしてきたかの振り返り用
-[こちら](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119)を参考にさせていただいた
+[こちら](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119)や[こちら](https://qiita.com/okoysm/items/abcad0b4aefa585bc50b)を参考にさせていただいた
 
 ## 基本情報
 
@@ -17,21 +17,47 @@
 
 ## スキル/技術スタック
 
+### 言語
+  - JavaScript
+    - node.js
+      - TODO: どれくらいできるか、どのくらいの経験か
+    - JQuery
+    - Angular
+    - Vue.js
+  - Bash
+    - ユニケージ
+  - Ruby
+  - Python
+    - Python3
+  - Crystal
+  -
+
+### インフラ
+  - AWS
+    -
+  - GCP
+  - Heroku
+  - Arukas
+  -
+
+### ツール類
+  - Docker
+    - ローカル
+    - Docker-Compose
+  -
+
 ## 職務経歴
 
 ### 2017/04 - : ハンズラボ株式会社
 
 #### 2017/05 - 2017/06 : 仮想プロジェクト
-
-- AWSのアカウントの情報を取得するslack bot
-  - https://www.hands-lab.com/tech/entry/3061.html
-  - node.js
-  - AWS Lambda
+  - AWSのアカウントの情報を取得するslack bot
+    - https://www.hands-lab.com/tech/entry/3061.html
+    - node.js
+    - AWS Lambda
 
 #### 2017/07 - 2018/05 : ファストフードチェーンMDシステムリプレイス
-
-- 職務内容の詳細を箇条書きでかく
+  - 職務内容の詳細を箇条書きでかく
 
 #### 2018/06 - : 社内画像共有SaaS開発
-
-- 職務内容の詳細を箇条書きでかく
+  - 職務内容の詳細を箇条書きでかく
