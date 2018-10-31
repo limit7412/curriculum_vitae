@@ -20,18 +20,25 @@
 ### 言語
   - JavaScript
     - node.js
-      - TODO: どれくらいできるか、どのくらいの経験か
+      - 実務経験は無いが研修等で利用。主にexpressやsocket.ioを利用した
     - JQuery
+      - 業務で1年ほどの経験
     - Angular
+      - 業務で数ヶ月ほど経験。少し触れる程度
     - Vue.js
+      - 趣味でのHPの作成などに利用。少しだけ触ってみたレベル
     - TypeScript
+      - 業務で数ヶ月ほど経験
   - Bash
     - ユニケージ
+      - 業務で1年ほどの経験
   - Ruby
+    - 趣味で小さなアプリを少し書いた。主にSinatraを利用
   - Python
     - Python3
+      - 業務で数ヶ月ほど前から利用中
   - Crystal
-  -
+    - [Qiitaに記事](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)を書いたりした程度。アプリはまだ経験無し
 
 ### インフラ
   - AWS
