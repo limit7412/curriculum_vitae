@@ -70,11 +70,13 @@
 
 ### 2017/04 - : ハンズラボ株式会社
 
-#### 2017/05 - 2017/06 : 仮想プロジェクト
-  - AWSのアカウントの情報を取得するslack bot
-    - https://www.hands-lab.com/tech/entry/3061.html
-    - node.js
-    - AWS Lambda
+#### 2018/06 - : 社内画像共有SaaS開発
+  - 小売や飲食の店舗と本部などの遠隔の拠点において画像を共有するサービス
+    - https://post-for.com
+  - ある程度できている段階からの機能や画面の追加
+    - AngularとTypeScriptによるフロントエンド
+    - Serverless Framework（AWS）とPythonによるサーバーサイド
+  - 参加初期はフロントをその後サーバーサイドをメインに担当
 
 #### 2017/07 - 2018/05 : ファストフードチェーンMDシステムリプレイス
   - いくつかの機能ができている段階からの参加
@@ -89,10 +91,8 @@
       - EC2で動くCGIとデータをバックアップするS3という構成
       - CloudFormationとAnsibleによる自動化
 
-#### 2018/06 - : 社内画像共有SaaS開発
-  - 小売や飲食の店舗と本部などの遠隔の拠点において画像を共有するサービス
-    - https://post-for.com
-  - ある程度できている段階からの機能や画面の追加
-    - AngularとTypeScriptによるフロントエンド
-    - Serverless Framework（AWS）とPythonによるサーバーサイド
-  - 参加初期はフロントをその後サーバーサイドをメインに担当
+#### 2017/05 - 2017/06 : 仮想プロジェクト
+  - AWSのアカウントの情報を取得するslack bot
+    - https://www.hands-lab.com/tech/entry/3061.html
+    - node.js
+    - AWS Lambda
