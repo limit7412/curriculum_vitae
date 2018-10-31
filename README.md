@@ -40,7 +40,7 @@
   - Crystal
     - [Qiitaに記事](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)を書いたりした程度。アプリは経験無し
 
-### インフラ/
+### インフラ
   - AWS
     - 基幹システムのクラウド移行とリプレイス業務で利用
       - EC2
