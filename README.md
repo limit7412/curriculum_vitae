@@ -22,37 +22,49 @@
     - node.js
       - 実務経験は無いが研修等で利用。主にexpressやsocket.ioを利用した
     - JQuery
-      - 業務で1年ほどの経験
+      - 基幹システム開発で1年ほどの経験
     - Angular
-      - 業務で数ヶ月ほど経験。少し触れる程度
+      - SaaS開発のためで数ヶ月ほど経験。少し触れる程度。既存画面の改修や新画面のロジックなどを主に担当した
     - Vue.js
       - 趣味でのHPの作成などに利用。少しだけ触ってみたレベル
     - TypeScript
-      - 業務で数ヶ月ほど経験
+      - Angularと合わせて数ヶ月ほど経験
   - Bash
     - ユニケージ
-      - 業務で1年ほどの経験
+      - 基幹システム開発で1年ほどの経験
   - Ruby
     - 趣味で小さなアプリを少し書いた。主にSinatraを利用
   - Python
     - Python3
-      - 業務で数ヶ月ほど前から利用中
+      - SaaS開発で数ヶ月ほど前から利用中。Lambda上での利用が主
   - Crystal
-    - [Qiitaに記事](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)を書いたりした程度。アプリはまだ経験無し
+    - [Qiitaに記事](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)を書いたりした程度。アプリは経験無し
 
-### インフラ
+### インフラ/
   - AWS
-    -
+    - 基幹システムのクラウド移行とリプレイス業務で利用
+      - EC2
+      - S3
+    - SaaS開発のために利用中
+      - ServerlessFramework
+        - Lambda
+        - IAM
+        - DynamoDB
+        - CloudFormation
   - GCP
+    - 過去に自分用のDockerコンテナを動かすために無料枠で利用していた
   - Heroku
+    - 趣味のwebアプリを動かすために無料の範囲内で利用
   - Arukas
-  -
+    - 趣味で簡単なバッチを動かすために利用している
 
-### ツール類
+### ツール/サービス等
   - Docker
-    - ローカル
-    - Docker-Compose
-  -
+    - ローカルの開発環境のためにDockerComposeを主に利用
+  - Ansible
+    - EC2の構築自動化のためにCloudFormationと合わせて利用
+  - Stripe
+    - SaaSの決済機能実装のために現在利用中
 
 ## 職務経歴
 
