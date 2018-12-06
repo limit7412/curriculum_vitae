@@ -38,7 +38,9 @@
     - Python3
       - SaaS開発で数ヶ月ほど前から利用中。Lambda上での利用が主
   - Crystal
-    - [Qiitaに記事](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)を書いたりした程度。アプリは経験無し
+    - 個人で少し触っている程度
+      - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
+      - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
 
 ### インフラ
   - AWS
@@ -64,13 +66,20 @@
   - Ansible
     - EC2の構築自動化のためにCloudFormationと合わせて利用
   - Stripe
-    - SaaSの決済機能実装のために現在利用中
+    - SaaSの決済機能実装のために現在利用
 
 ## 職務経歴
 
 ### 2017/04 - : ハンズラボ株式会社
 
-#### 2018/06 - : 社内画像共有SaaS開発
+#### 2019/01 - : IoT開発受託案件（予定）
+  - AWS、Python3（Django?）、Vue?
+
+#### 2018/10 - 2018/12 : ホームセンターMDシステム臨時テストチーム
+  - 社内画像共有SaaSの開発と平行して臨時で結成されたタスクフォースチームに参加
+    - 主にモンキーテストを行った
+
+#### 2018/06 - 2018/12 : 社内画像共有SaaS開発
   - 小売や飲食の店舗と本部などの遠隔の拠点において画像を共有するサービス
     - https://post-for.com
   - ある程度できている段階からの機能や画面の追加
