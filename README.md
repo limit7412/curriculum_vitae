@@ -27,6 +27,7 @@
       - SaaS開発のためで数ヶ月ほど経験。少し触れる程度。既存画面の改修や新画面のロジックなどを主に担当した
     - Vue.js
       - 趣味でのHPの作成などに利用。少しだけ触ってみたレベル
+      - IoT案件でのコンソール開発のために利用予定
     - TypeScript
       - Angularと合わせて数ヶ月ほど経験
   - Bash
@@ -36,7 +37,8 @@
     - 趣味で小さなアプリを少し書いた。主にSinatraを利用
   - Python
     - Python3
-      - SaaS開発で数ヶ月ほど前から利用中。Lambda上での利用が主
+      - ServerlessFramework（AWS Lambda）
+        - SaaS開発で数ヶ月ほど前から利用
   - Crystal
     - 個人で少し触っている程度
       - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
@@ -47,7 +49,7 @@
     - 基幹システムのクラウド移行とリプレイス業務で利用
       - EC2
       - S3
-    - SaaS開発のために利用中
+    - SaaS開発のために利用
       - ServerlessFramework
         - Lambda
         - IAM
@@ -66,14 +68,14 @@
   - Ansible
     - EC2の構築自動化のためにCloudFormationと合わせて利用
   - Stripe
-    - SaaSの決済機能実装のために現在利用
+    - SaaSの決済機能実装のために利用
 
 ## 職務経歴
 
 ### 2017/04 - : ハンズラボ株式会社
 
 #### 2019/01 - : IoT開発受託案件（予定）
-  - AWS、Python3（Django?）、Vue?
+  - AWS、Soracom、Django（Python3）、Vue.js等を予定している
 
 #### 2018/10 - 2018/12 : ホームセンターMDシステム臨時テストチーム
   - 社内画像共有SaaSの開発と平行して臨時で結成されたタスクフォースチームに参加
