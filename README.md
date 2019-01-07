@@ -38,9 +38,11 @@
   - Python
     - Python3
       - ServerlessFramework（AWS Lambda）
-        - SaaS開発で数ヶ月ほど前から利用
+        - SaaS開発で数ヶ月ほど経験
+      - Django
+        - IoT案件でのコンソール開発のために利用中
   - Crystal
-    - 個人で少し触っている程度
+    - 主に個人での開発に利用
       - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
       - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
 
@@ -55,6 +57,11 @@
         - IAM
         - DynamoDB
         - CloudFormation
+    - IoT案件開発のために利用予定
+      - Aurora
+        - MySQL
+  - Soracom
+    - IoT案件開発のために利用予定
   - GCP
     - 過去に自分用のDockerコンテナを動かすために無料枠で利用していた
   - Heroku
@@ -74,8 +81,16 @@
 
 ### 2017/04 - : ハンズラボ株式会社
 
-#### 2019/01 - : IoT開発受託案件（予定）
-  - AWS、Soracom、Django（Python3）、Vue.js等を予定している
+#### 2019/01 - : IoT開発受託案件
+  - 要件定義フェーズ終了から参加
+    - IoTによるクラウド化
+      - AWSとSoracom
+    - 管理用コンソール
+      - フロントとサーバーサイド両方を担当予定
+        - Vue.jsでのSPA
+        - Django（Python3.6）によるサーバーサイド
+        - インフラはAWSとSoracom
+          - DBはAurora(MySQL 5.7)
 
 #### 2018/10 - 2018/12 : ホームセンターMDシステム臨時テストチーム
   - 社内画像共有SaaSの開発と平行して臨時で結成されたタスクフォースチームに参加
