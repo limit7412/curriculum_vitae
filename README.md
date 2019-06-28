@@ -26,25 +26,29 @@
     - Angular
       - SaaS開発のためで数ヶ月ほど経験。少し触れる程度。既存画面の改修や新画面のロジックなどを主に担当した
     - Vue.js
-      - 趣味でのHPの作成などに利用。少しだけ触ってみたレベル
-      - IoT案件でのコンソール開発のために利用予定
+      - 趣味でのHPの作成などに利用
+      - IoT案件でのコンソール開発のために利用
     - TypeScript
       - Angularと合わせて数ヶ月ほど経験
   - Bash
     - ユニケージ
       - 基幹システム開発で1年ほどの経験
   - Ruby
-    - 趣味で小さなアプリを少し書いた。主にSinatraを利用
+    - 趣味で小さなアプリを少し書いた
   - Python
     - Python3
       - ServerlessFramework（AWS Lambda）
         - SaaS開発で数ヶ月ほど経験
       - Django
-        - IoT案件でのコンソール開発のために利用中
+        - IoT案件でのコンソール開発のために利用
   - Crystal
     - 主に個人での開発に利用
       - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
       - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
+  - Golang
+    - 配信サービスのapi開発に利用
+      - echo
+      - gorm
 
 ### インフラ
   - AWS
@@ -57,11 +61,12 @@
         - IAM
         - DynamoDB
         - CloudFormation
-    - IoT案件開発のために利用予定
+    - 配信サービスのapi開発に利用
+      - Fargate
+      - CloudFront
+        - Lambda@Edge
       - Aurora
         - MySQL
-  - Soracom
-    - IoT案件開発のために利用予定
   - GCP
     - 過去に自分用のDockerコンテナを動かすために無料枠で利用していた
   - Heroku
@@ -79,10 +84,10 @@
 
 ## 職務経歴
 
-### 2019/05 - : hoge
+### 2019/05 - : 株式会社メディアドゥ
 
-#### 2019/05 - : hoge
-  - hoge
+#### 2019/05 - : 配信サービス
+  - 外部の書店様への配信api、コンテンツの提供を行うシステム
 
 ### 2017/04 - 2019/04 : ハンズラボ株式会社
 
