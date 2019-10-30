@@ -20,7 +20,7 @@
 ### 言語
   - JavaScript
     - node.js
-      - 実務経験は無いが研修等で利用。主にexpressやsocket.ioを利用した
+      - 実務経験はないが研修等で利用。主にexpressやsocket.ioを利用した
     - JQuery
       - 基幹システム開発で1年ほどの経験
     - Angular
@@ -88,6 +88,10 @@
 
 #### 2019/05 - : 配信サービス
   - 外部の書店様への配信api、コンテンツの提供を行うシステム
+    - インフラはFagate、Lambda@Edge
+      - DBはAurora(MySQL 5.7)
+    - golangと一部node.js
+    - https://techdo.mediado.jp/entry/2019/10/29/090000
 
 ### 2017/04 - 2019/04 : ハンズラボ株式会社
 
