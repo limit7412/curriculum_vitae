@@ -90,7 +90,7 @@
   - 外部の書店様への配信api、コンテンツの提供を行うシステム
     - インフラはFagate、Lambda@Edge
       - DBはAurora(MySQL 5.7)
-    - golangと一部node.js
+    - 言語はapiはGo、Lambda@EdgeはNode.js
     - https://techdo.mediado.jp/entry/2019/10/29/090000
 
 ### 2017/04 - 2019/04 : ハンズラボ株式会社
