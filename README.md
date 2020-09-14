@@ -20,7 +20,7 @@
 ### 言語
   - JavaScript
     - node.js
-      - 実務経験はないが研修等で利用。主にexpressやsocket.ioを利用した
+      - [電子書籍webビューアーのバックエンド開発](https://techdo.mediado.jp/entry/2019/10/29/090000)のため、Lambda@Edgeにて開発に利用
     - JQuery
       - 基幹システム開発で1年ほどの経験
     - Angular
