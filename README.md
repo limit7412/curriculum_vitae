@@ -14,7 +14,7 @@
 |gitlab|[qazx7412](http://gitlab.com/qazx7412)|
 |twitter|[@qazx7412](https://twitter.com/qazx7412)|
 |qiita|[qazx7412](http://qiita.com/qazx7412)|
-|zenn|[zenn](https://zenn.dev/qazx7412)|
+|zenn|[qazx7412](https://zenn.dev/qazx7412)|
 
 ## スキル/技術スタック
 
