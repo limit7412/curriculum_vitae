@@ -62,7 +62,7 @@
         - IAM
         - DynamoDB
         - CloudFormation
-    - 配信サービスのapi開発に利用
+    - 電子書籍配信サービスのapi開発に利用
       - Fargate
       - CloudFront
         - Lambda@Edge
@@ -70,18 +70,14 @@
         - MySQL
   - GCP
     - 過去に自分用のDockerコンテナを動かすために無料枠で利用していた
-  - Heroku
-    - 趣味のwebアプリを動かすために無料の範囲内で利用
-  - Arukas
-    - 趣味で簡単なバッチを動かすために利用している
 
 ### ツール/サービス等
   - Docker
     - ローカルの開発環境のためにDockerComposeを主に利用
   - Ansible
-    - EC2の構築自動化のためにCloudFormationと合わせて利用
-  - Stripe
-    - SaaSの決済機能実装のために利用
+    - EC2の構築自動化のためにCloudFormationと合わせて利用していた
+<!--   - Stripe
+    - SaaSの決済機能実装のために利用の検討をしていた -->
 
 ## 職務経歴
 
@@ -92,7 +88,8 @@
     - インフラはFagate、Lambda@Edge
       - DBはAurora(MySQL 5.7)
     - 言語は基本的にはGo、Lambda@EdgeのみNode.js
-    - https://techdo.mediado.jp/entry/2019/10/29/090000
+      - APIの開発と導入済みのwebビューアー（パッケージ製品）の調整
+      - https://techdo.mediado.jp/entry/2019/10/29/090000
 
 ### 2017/04 - 2019/04 : ハンズラボ株式会社
 
@@ -101,7 +98,7 @@
     - IoTによるクラウド化
       - AWSとSoracom
     - 主に管理用コンソールの制作を担当
-      - フロントとサーバーサイド両方を担当予定
+      - フロントとサーバーサイド両方を担当
         - Vue.js(vue-cli)でのSPA
         - Django（Python3.6）、Django Rest Frameworkによるサーバーサイド
         - インフラはAWSとSoracom
