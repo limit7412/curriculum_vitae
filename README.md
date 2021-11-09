@@ -74,9 +74,9 @@
 ### ツール/サービス等
   - Docker
     - ローカルの開発環境のためにDockerComposeを主に利用
-  - Ansible
+<!--   - Ansible
     - EC2の構築自動化のためにCloudFormationと合わせて利用していた
-<!--   - Stripe
+  - Stripe
     - SaaSの決済機能実装のために利用の検討をしていた -->
 
 ## 職務経歴
