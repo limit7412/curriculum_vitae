@@ -47,50 +47,106 @@
       - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
       - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
   - Golang
-    - 配信サービスのapi開発に利用
+    - webバックエンド開発に利用
       - echo
+      - gin
       - gorm
 
 ### インフラ
   - AWS
-    - 基幹システムのクラウド移行とリプレイス業務で利用
+    - コンピューティング
       - EC2
-      - S3
-    - SaaS開発のために利用
-      - ServerlessFramework
-        - Lambda
-        - IAM
-        - DynamoDB
-        - CloudFormation
-    - 電子書籍配信サービスのapi開発に利用
+        - webバックエンド、踏み台、バッチ等
+      - Lambda
+        - ミニバッチ、webサーバー、その他サーバーレス
+      - Lambda@Edge
+        - web向け電子書籍ミドルウェアのCGI移植
       - Fargate
-      - CloudFront
-        - Lambda@Edge
+        - webバックエンド（電子書籍配信サービス）
+      - App Runner
+        - webバックエンド（モバイル版Gogh）
+    - データベース
       - Aurora
         - MySQL
+      - DynamoDB
+    - ストレージ
+      - S3
+    - IaC
+      - ServerlessFramework
+      - AWS CDK
+      - CloudFormation
   - GCP
     - 過去に自分用のDockerコンテナを動かすために無料枠で利用していた
+  - PlanetScale
+    - RDB（モバイル版Gogh）
+  - Momento
+    - キャッシュ（モバイル版Gogh）
+  - Cloudflare
+    - 個人開発
+    - 所有ドメイン管理
+    - 
 
 ### ツール/サービス等
   - Docker
     - ローカルの開発環境のためにDockerComposeを主に利用
-<!--   - Ansible
-    - EC2の構築自動化のためにCloudFormationと合わせて利用していた
-  - Stripe
-    - SaaSの決済機能実装のために利用の検討をしていた -->
+
 
 ## 職務経歴
 
 ### 2022/09 - : 株式会社ambr
 
-#### 2022/09 - : VRサービスバックエンド
+#### 2023/10 - : Gogh（モバイル版）
+  - 作業集中×アバター、ルーム作成アプリ
+    - xambrからfork
+    - 
+  - インフラ
+    - Fargate
+    - AWS CDK
+    - PlanetScale
+      - MySQL互換
+    - Momento
+      - go-redisへの互換プロキシを使用
+  - 言語
+    - Go
+      - バックエンドの他IaC（AWS CDK）でも使用
+    - C#
+      - E2Eテスト 
+
+#### 2022/09 - 2023/09 : xambr
+  - VRサービス用webバックエンド
+    - 一定期間開催でcloseする期間限定イベントに合わせて毎回構築、削除
+    - 途中からプラットフォーム化し、インフラは非開催期間でも運用しイベント以外の空間に入場可能な形に変更された
+  - インフラ
+    - Fargate
+    - AWS CDK
+      - プラットフォーム化前はCloudFormation
+    - Aurora(MySQL)
+    - ElastiCache for Redis 
+  - 言語
+    - Go
+      - バックエンドの他IaC（AWS CDK）でも使用
+    - C#
+      - リアルタイムサーバー、E2Eテスト 
+
+#### 2022/09 - 20/ : xambr（初期）
+  - VRサービス用webバックエンド
+    
+  - インフラ
+    - Fargate
+    - CloudFormation
+  - 言語
+    - Go
+    - C#
+      - リアルタイムサーバー、E2Eテスト 
 
 ### 2019/05 - 2022/08 : 株式会社メディアドゥ
 
 #### 2019/05 - 2022/08 : 配信サービス
   - 社内外の電子書籍ストアのリクエストを受けて、エンドユーザーがコンテンツを閲覧できるurlを生成するapiサーバーとベンダーから提供を受けたビューアーを稼働させるためのapi、それらに付随するバッチの開発運用
-    - インフラはFagate、Lambda@Edge
-      - DBはAurora(MySQL 5.7)
+    - インフラ
+      - Fagate
+      - Lambda@Edge
+      - Aurora(MySQL 5.7)
     - 言語は基本的にはGo、Lambda@EdgeのみNode.js
       - APIの開発と導入済みのwebビューアー（パッケージ製品）の調整
       - https://techdo.mediado.jp/entry/2019/10/29/090000
@@ -133,7 +189,7 @@
       - EC2で動くCGIとデータをバックアップするS3という構成
       - CloudFormationとAnsibleによる自動化
 
-#### 2017/05 - 2017/06 : 仮想プロジェクト
+#### 2017/05 - 2017/06 : 研修（仮想プロジェクト）
   - AWSのアカウントの情報を取得するslack bot
     - https://www.hands-lab.com/tech/entry/3061.html
     - node.js
