@@ -19,38 +19,26 @@
 ## スキル/技術スタック
 
 ### 言語
-  - JavaScript
-    - node.js
-      - [電子書籍webビューアーのバックエンド開発](https://techdo.mediado.jp/entry/2019/10/29/090000)のため、Lambda@Edgeにて開発に利用
-    - JQuery
-      - 基幹システム開発で1年ほどの経験
-    - Angular
-      - SaaS開発のためで数ヶ月ほど経験。少し触れる程度。既存画面の改修や新画面のロジックなどを主に担当した
-    - Vue.js
-      - 趣味でのHPの作成などに利用
-      - IoT案件でのコンソール開発のために利用
-    - TypeScript
-      - Angularと合わせて数ヶ月ほど経験
-  - Bash
-    - ユニケージ
-      - 基幹システム開発で1年ほどの経験
-  - Ruby
-    - 趣味で小さなアプリを少し書いた
-  - Python
-    - Python3
-      - ServerlessFramework（AWS Lambda）
-        - SaaS開発で数ヶ月ほど経験
-      - Django
-        - IoT案件でのコンソール開発のために利用
-  - Crystal
-    - 主に個人での開発に利用
-      - [HTTPサーバー](https://qiita.com/qazx7412/items/f4796bcfcb4d8400a0a3)
-      - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
   - Golang
     - webバックエンド開発に利用
       - echo
       - gin
       - gorm
+  - JavaScript/TypeScript
+    - [電子書籍webビューアーのバックエンド開発](https://techdo.mediado.jp/entry/2019/10/29/090000)（Lambda@Edge）
+  - Bash
+    - ユニケージ
+  - Scala
+    - 主にScala Cli、Scala Native、GraalVM
+      - [PR未review通知](https://github.com/limit7412/no_review_notifications_slack)
+      - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-scala-sls)
+  - Crystal
+    - [GitHub通知管理](https://github.com/limit7412/github_notifications_slack)
+    - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
+  - C#
+    - E2Eテスト（DFrame）
+    - VRChat向けフェイストラッキング用シェイプキー生成コンポーネント
+      - [【無料】MMDのシェイプキーから顔トラ用シェイプキーを生成するやつ](https://qazx7412.booth.pm/items/7937591)
 
 ### インフラ
   - AWS
@@ -84,7 +72,7 @@
   - Cloudflare
     - 個人開発
     - 所有ドメイン管理
-    - 
+    - HP管理
 
 ### ツール/サービス等
   - Docker
