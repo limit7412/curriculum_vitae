@@ -170,6 +170,7 @@
 
 #### 2017/05 - 2017/06 : 研修（仮想プロジェクト）
   - AWSのアカウントの情報を取得するslack bot
-    - https://www.hands-lab.com/tech/entry/3061.html
+    - [ブログ（アーカイブ）](https://web.archive.org/web/20240804175142/https://www.hands-lab.com/tech/t3061/)
+      - オリジナルのURL: https://www.hands-lab.com/tech/entry/3061.html
     - node.js
     - AWS Lambda
