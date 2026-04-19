@@ -25,7 +25,7 @@
       - gin
       - gorm
   - JavaScript/TypeScript
-    - [電子書籍webビューアーのバックエンド開発](https://techdo.mediado.jp/entry/2019/10/29/090000)（Lambda@Edge）
+    - [電子書籍webビューアーのバックエンド開発](https://techdo.hatenablog.com/entry/2019/10/29/090000)（Lambda@Edge）
   - Bash
     - ユニケージ
   - Scala
