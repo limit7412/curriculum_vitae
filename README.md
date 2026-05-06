@@ -128,7 +128,7 @@
       - Aurora(MySQL 5.7)
     - 言語は基本的にはGo、Lambda@EdgeのみNode.js
       - APIの開発と導入済みのwebビューアー（パッケージ製品）の調整
-      - https://techdo.mediado.jp/entry/2019/10/29/090000
+      - https://techdo.hatenablog.com/entry/2019/10/29/090000
 
 ### 2017/04 - 2019/04 : ハンズラボ株式会社
 
