@@ -151,7 +151,8 @@
 
 #### 2018/06 - 2018/12 : 社内画像共有SaaS開発（Postfor）
   - 小売や飲食の店舗と本部などの遠隔の拠点において画像を共有するサービス
-    - [https://post-for.com](https://web.archive.org/web/20220519045954/https://www.hands-lab.com/postfor/)
+    - [公式サイト（アーカイブ）](https://web.archive.org/web/20220519045954/https://www.hands-lab.com/postfor/)
+      - オリジナルのURL: https://post-for.com
   - ある程度できている段階からの機能や画面の追加
     - AngularとTypeScriptによるフロントエンド
     - Serverless Framework（AWS）とPythonによるサーバーサイド
