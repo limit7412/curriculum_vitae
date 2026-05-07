@@ -9,7 +9,6 @@
 |name|回路/kairox/qazx7412|
 |birthdate|1993/12|
 |Location|埼玉県 高崎線/宇都宮線沿線|
-|mail|qazx7412@newgenerations.im|
 |github|[limit7412](http://github.com/limit7412)|
 |gitlab|[qazx7412](http://gitlab.com/qazx7412)|
 |twitter|[@qazx7412](https://twitter.com/qazx7412)|
