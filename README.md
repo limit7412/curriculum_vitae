@@ -125,8 +125,8 @@
   - 社内外の電子書籍ストアのリクエストを受けて、エンドユーザーがコンテンツを閲覧できるurlを生成するapiサーバーとベンダーから提供を受けたビューアーを稼働させるためのapi、それらに付随するバッチの開発運用
     - インフラ
       - Fagate
-      - 
-      - Lambda@Edge
+      - Lambda
+        - CDNではLambda@Edgeも使用
       - Aurora(MySQL 5.7)
     - 言語は基本的にはGo、Lambda@EdgeのみNode.js
       - APIの開発と導入済みのwebビューアー（パッケージ製品）の調整
