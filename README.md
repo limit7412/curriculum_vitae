@@ -1,6 +1,8 @@
 # オープン職務経歴書
 公開用職務経歴書、転職活動というよりは自分が今まで何をしてきたかの振り返り用
+<!-- リンク切れ
 [こちら](https://qiita.com/Sa2Knight/items/4af2f24fac9290d26119)や[こちら](https://qiita.com/okoysm/items/abcad0b4aefa585bc50b)を参考にさせていただいた
+-->
 
 ## 基本情報
 
