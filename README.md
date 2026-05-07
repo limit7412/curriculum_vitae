@@ -89,7 +89,7 @@
     - xambrからfork
     - サーバーサイドリード
   - インフラ
-    - Fargate
+    - App Runner
     - AWS CDK
     - PlanetScale
       - MySQL互換
@@ -107,7 +107,8 @@
     - 一定期間開催でcloseする期間限定イベントに合わせて毎回構築、削除
     - 途中からプラットフォーム化し、インフラは非開催期間でも運用しイベント以外の空間に入場可能な形に変更された
   - インフラ
-    - Fargate
+    - App Runner
+      - プラットフォーム化前はFargate
     - AWS CDK
       - プラットフォーム化前はCloudFormation
     - Aurora(MySQL)
@@ -124,6 +125,7 @@
   - 社内外の電子書籍ストアのリクエストを受けて、エンドユーザーがコンテンツを閲覧できるurlを生成するapiサーバーとベンダーから提供を受けたビューアーを稼働させるためのapi、それらに付随するバッチの開発運用
     - インフラ
       - Fagate
+      - 
       - Lambda@Edge
       - Aurora(MySQL 5.7)
     - 言語は基本的にはGo、Lambda@EdgeのみNode.js
