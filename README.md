@@ -38,7 +38,7 @@
     - [LambdaのCustomRuntime](https://github.com/limit7412/lambda-crystal-sls)
   - C#
     - E2Eテスト（DFrame）
-    - VRChat向けフェイストラッキング用シェイプキー生成コンポーネント
+    - VRChat向けツール（[NDMF](https://github.com/bdunderscore/ndmf)）
       - [【無料】MMDのシェイプキーから顔トラ用シェイプキーを生成するやつ](https://qazx7412.booth.pm/items/7937591)
 
 ### インフラ
